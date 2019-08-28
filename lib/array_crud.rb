@@ -7,7 +7,7 @@ def create_an_array
   my_names = ["patrick", "alexander", "freeney", "Junior"]
 end
 
-def add_element_to_end_of_array(array, element)s
+def add_element_to_end_of_array(array, element)
   
 end
 
